@@ -124,7 +124,7 @@ body {
   background-image: url("../img/imagen1.jpg");
   background-size: cover;
   background-position: center;
-  height: 100vh; /* Ajusta el alto de la sección al 100% de la pantalla */
+  /* height: 100vh; */ /* Ajusta el alto de la sección al 100% de la pantalla */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -176,7 +176,7 @@ hr {
 
 #acerca-de p {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 1rem;
+  font-size: 0.9rem;
   color: #fff;
  
   margin: 0 auto; /* Centra el texto horizontalmente */
